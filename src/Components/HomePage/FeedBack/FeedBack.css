@@ -1,0 +1,35 @@
+.feedback h2 span {
+    color: #7AB259;
+}
+.feedback h2{
+    font-size: 37px;
+    margin-bottom: 40px;
+}
+.image img {
+    width: 75px;
+    margin-top: 15px;
+    margin-right: 20px;
+    float: left;
+}
+
+.single_feedback {
+    border: 2px solid #A9A9A9;
+    padding: 20px 30px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+.feedback_meta {
+    margin-top: 20px;
+    text-align: left;
+}
+.feedbackNameImage {
+    overflow: hidden;
+}
+.single_feedback p {
+	color: #A9A9A9;
+	font-size: 17px;
+	margin-top: 10px;
+}
+.feedback h2{
+    margin-bottom: 50px;
+}

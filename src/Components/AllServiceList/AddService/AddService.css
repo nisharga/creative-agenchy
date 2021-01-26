@@ -1,0 +1,5 @@
+.addService form {
+    box-shadow: 0 0 20px deeppink;
+    padding: 20px 30px;
+    border-radius: 5px;
+}

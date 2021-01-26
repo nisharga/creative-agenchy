@@ -1,0 +1,25 @@
+.contactUsSection{
+    background-color: #FBD062;
+}
+.contactAreaTop{
+    padding: 100px 0px;
+}
+.copyright{
+    padding-bottom: 20px;
+}
+
+.contactUsSection input{
+    padding: 25px 20px;
+}
+.contactUsSection input[type="submit"]{
+    padding: 10px 50px;
+    background-color: #000;
+    color: #fff;
+}
+.contactUsSection h2{
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.contactTitle{
+    margin-bottom: 50px;
+}

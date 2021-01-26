@@ -1,0 +1,19 @@
+.WorkSlider{
+    background-color: #111430;
+    padding: 80px 0px;
+    overflow: hidden;
+}
+.WorkSlider h2{
+    color: #fff;
+}
+.WorkSlider span{
+    color: #7AB259;
+}
+
+.WorkSlider .item img{
+    height: 290px;
+}
+
+ .owl-dots {
+    margin-top: 40px !important;
+}

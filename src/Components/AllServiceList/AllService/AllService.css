@@ -1,0 +1,20 @@
+.allService table { 
+    box-shadow: 0 0 10px;
+    border-radius: 5px;
+}
+.allServicetable {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+ .allService td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+ .allService tr:nth-child(even) {
+    background-color: #dddddd;
+    border: 1px solid #dddddd;
+  }

@@ -1,0 +1,23 @@
+.serviceName a{
+    text-decoration: none;
+}
+.serviceName .serviceCurrent{
+    color: green;
+}
+
+.singleService {
+    box-shadow: 0 0 10px;
+    border-radius: 5px;
+}
+
+.tag {
+    background: #FFE3E3;
+    padding: 6px 10px;
+    border-radius: 5px;
+    color: #FF8A8A;
+    border: none;
+    float: right;
+}
+.tag:focus{
+    border: none !important;
+}

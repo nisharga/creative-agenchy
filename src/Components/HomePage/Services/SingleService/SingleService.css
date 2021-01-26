@@ -1,0 +1,18 @@
+.singleService h5{
+    font-weight: 800;
+    padding: 10px 0px;
+}
+.singleService{
+    padding: 20px 35px;
+}
+.singleService {
+    text-decoration: none !important; 
+    margin: 10px 25px;
+}
+.singleService h5,
+.singleService p{color: black;}
+
+.singleService:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}

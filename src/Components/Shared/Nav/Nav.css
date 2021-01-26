@@ -1,0 +1,8 @@
+header ul li a {
+    font-weight: 600;
+}
+.loginBtn {
+    background: black;
+    color: #fff !important;
+    border-radius: 6px; 
+} 
