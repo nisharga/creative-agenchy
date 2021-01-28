@@ -12,7 +12,7 @@ const Order = () => {
     }
     const { register, handleSubmit } = useForm();
     const onSubmit = data => {
-        fetch('http://localhost:5000/order', {
+        fetch('https://shielded-bayou-70874.herokuapp.com/order', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(data)
