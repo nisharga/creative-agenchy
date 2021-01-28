@@ -8,7 +8,7 @@ import SingleServiceList from './SingleServiceList';
 const ServiceList = () => { 
     const [user, setUser] = useContext(authContext)
             const [Alldata, setAlldata] = useState({})    
-            fetch('http://localhost:5000/serviceList', {
+            fetch('https://shielded-bayou-70874.herokuapp.com/serviceList', {
                         method: 'POST',
                         headers: { 'content-type': 'application/json'},
                         body: JSON.stringify({Alldata : Alldata })
