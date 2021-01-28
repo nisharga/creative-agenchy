@@ -10,7 +10,7 @@ const Review = () => {
     const [review, setReview] = useState({})
     const { register, handleSubmit, watch, errors } = useForm();
     const onSubmit = data => {
-        fetch('http://localhost:5000/review', {
+        fetch('https://shielded-bayou-70874.herokuapp.com/review', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({})
